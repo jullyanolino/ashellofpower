@@ -3,5 +3,5 @@ function a_function {
 
     Get-Location
 
-    
+    Get-ChildItem
 }
