@@ -1,2 +1,2 @@
 # A Shell of Power
-Some adventures using Powershell.
+Some security adventures using Powershell
